@@ -1,3 +1,13 @@
+# Research Proposal
+
+Welcome to my Research Proposal repository. 
+The idea of this repo was born while pursuing my master's degree at Torrens University in the Research Methodologies subject, supervised by Dr. Bushra Naeem.
+
+You can find more about it here:
+- [My Masters' Degree Open Source Repository](https://github.com/lfariabr/masters-swe-ai)
+- [Dr. Bushra Naeem Research Gate Profile](https://www.researchgate.net/profile/Bushra-Naeem-4)
+- [Dev.to Article on this Research](https://dev.to/lfariaus/does-nps-really-predict-revenue-in-healthcare-clinics-i-spent-12-weeks-finding-out-4nmj)
+ 
 # Does NPS Really Predict Revenue in Healthcare Clinics? I Spent 12 Weeks Finding Out.
 
 The Dataset (27,000 Survey Responses, 36 Months)
